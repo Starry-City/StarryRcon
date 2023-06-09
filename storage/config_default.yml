@@ -1,0 +1,14 @@
+# bot setting
+bot-icon: ''
+command-prefix: '?'
+token: ''
+activity: 'Minecraft 1.20 !'
+
+server-ip: 127.0.0.1
+server-port: 25575
+server-pwd: ''
+server-log-path: ''
+
+guild-id: ''
+chat-channel-id: ''
+console-channel-id: ''
